@@ -6,4 +6,5 @@ Blue
 Orange
 Green
 Red
-
+Purple
+Indigo
